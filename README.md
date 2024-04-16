@@ -9,4 +9,4 @@ Win Detection: JavaScript checks after each move if either player has won the ga
 Draw Detection: If the grid fills up without a winner being determined, the game declares a draw.
 Responsive Design: The game interface adjusts gracefully to different screen sizes, making it playable on both desktop and mobile devices.
 <img src="/meta/xo.png" />
-link_demo: https://ghassen-1.github.io/tic-tac-toe/
+link_demo: https://ghassenchahbani.github.io/tic-tac-toe/
